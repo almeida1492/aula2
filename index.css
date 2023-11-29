@@ -1,0 +1,9 @@
+.name {
+  background-color: green;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
