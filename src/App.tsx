@@ -9,6 +9,7 @@ export function App({ title }: { title: string }) {
   return (
     <div className="container">
       <h1>This is the branch claudia</h1>
+      <div>This is a change that exists only in the branch called claudia</div>
       <input placeholder="username" />
     </div>
   );
