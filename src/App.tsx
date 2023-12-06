@@ -8,7 +8,7 @@ export function App({ title }: { title: string }) {
 
   return (
     <div className="container">
-      <h1>{title}</h1>
+      <h1>This is the branch claudia</h1>
       <input placeholder="username" />
     </div>
   );
